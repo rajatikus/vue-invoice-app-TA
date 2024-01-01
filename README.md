@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Source
+Build a Invoice App With Vue 3, Vuex & Firebase
+https://www.youtube.com/watch?v=vsJtN54aA7w
